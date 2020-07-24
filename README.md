@@ -1,2 +1,0 @@
-# Halfway-there-promotion
-Apprentice Chef Inc, a company offering a selection of pre-prepared gourmet meals for busy professionals who have little to no cooking skills is looking to increase and diversify their revenue streams. They recently launched a promotion dubbed *'Halfway There'* where loyal subscribers can opt to receive half a bottle of wine from a local winery every Wednesday. The task is to create a model to predict which customers will subscribe to this service. 
